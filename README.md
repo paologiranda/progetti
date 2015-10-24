@@ -1,3 +1,0 @@
-# progetti
-
-git
